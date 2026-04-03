@@ -1,0 +1,329 @@
+{
+  "version": 1,
+  "base_track": "End Of The Night",
+  "base_artist": "Danny Avila",
+  "createdAt": "2026-04-03T16:56:51.567471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "end of the night",
+      "artist": "funeral",
+      "has_synced": true,
+      "path": "select/01_end_of_the_night_funeral.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "End of the Night : End of the Night",
+      "artist": "Taylor Noelle",
+      "has_synced": false,
+      "path": "select/02_End_of_the_Night___End_of_the_Night_Taylor_Noelle.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "End of the Night",
+      "artist": "Thumpasaurus",
+      "has_synced": false,
+      "path": "select/03_End_of_the_Night_Thumpasaurus.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "End of the Night",
+      "artist": "Rha.",
+      "has_synced": false,
+      "path": "select/04_End_of_the_Night_Rha..txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "End Of The Night",
+      "artist": "Doors",
+      "has_synced": true,
+      "path": "select/05_End_Of_The_Night_Doors.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The End Of The Night",
+      "artist": "Sword",
+      "has_synced": false,
+      "path": "select/06_The_End_Of_The_Night_Sword.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "End of the Night",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/07_End_of_the_Night_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "End of the night",
+      "artist": "The Doors",
+      "has_synced": true,
+      "path": "select/08_End_of_the_night_The_Doors.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "end of the night",
+      "artist": "aldn",
+      "has_synced": true,
+      "path": "select/09_end_of_the_night_aldn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "End of the Night",
+      "artist": "Charlie Cunningham",
+      "has_synced": true,
+      "path": "select/10_End_of_the_Night_Charlie_Cunningham.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "End of the Night",
+      "artist": "Danny Avila",
+      "has_synced": true,
+      "path": "select/11_End_of_the_Night_Danny_Avila.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "End of the Night",
+      "artist": "The Doors",
+      "has_synced": true,
+      "path": "select/12_End_of_the_Night_The_Doors.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "End Of The Night",
+      "artist": "Doors",
+      "has_synced": true,
+      "path": "select/13_End_Of_The_Night_Doors.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "End Of The Line",
+      "artist": "Dr. John feat. Aaron Neville",
+      "has_synced": true,
+      "path": "select/14_End_Of_The_Line_Dr._John_feat._Aaron_Neville.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "End Of The Line",
+      "artist": "Dr. John",
+      "has_synced": true,
+      "path": "select/15_End_Of_The_Line_Dr._John.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "End Of The Night",
+      "artist": "Ludacris feat. Bobby V.",
+      "has_synced": true,
+      "path": "select/16_End_Of_The_Night_Ludacris_feat._Bobby_V..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "End of the Night (feat. Bobby V)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/17_End_of_the_Night_(feat._Bobby_V)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "It's Not the End of the World",
+      "artist": "Le Sport",
+      "has_synced": true,
+      "path": "select/18_It's_Not_the_End_of_the_World_Le_Sport.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Outside of This Car, the End of the World",
+      "artist": "Le Loup",
+      "has_synced": false,
+      "path": "select/19_Outside_of_This_Car,_the_End_of_the_World_Le_Loup.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The End Of The Asterisk",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/20_The_End_Of_The_Asterisk_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "End Of The Road",
+      "artist": "Boyz II Men",
+      "has_synced": true,
+      "path": "select/21_End_Of_The_Road_Boyz_II_Men.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "End Of The World (feat. Skrillex)",
+      "artist": "Mr. Oizo feat. Skrillex",
+      "has_synced": true,
+      "path": "select/22_End_Of_The_World_(feat._Skrillex)_Mr._Oizo_feat._Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "End of the World (feat. Skrillex)",
+      "artist": "Mr. Oizo",
+      "has_synced": true,
+      "path": "select/23_End_of_the_World_(feat._Skrillex)_Mr._Oizo.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "End Of The Line",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/24_End_Of_The_Line_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Until The End Of The World",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/25_Until_The_End_Of_The_World_U2.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "End of the Beginning",
+      "artist": "Central Cee",
+      "has_synced": true,
+      "path": "select/26_End_of_the_Beginning_Central_Cee.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "End of the Road",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/27_End_of_the_Road_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "End Of The World",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/28_End_Of_The_World_ASH.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "At the End of the Rainbow - Live",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/29_At_the_End_of_the_Rainbow_-_Live_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "At the End of the Rainbow - Rehearsal Demo 1998",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/30_At_the_End_of_the_Rainbow_-_Rehearsal_Demo_1998_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "At the End of the Rainbow - Remastered 2018",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/31_At_the_End_of_the_Rainbow_-_Remastered_2018_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "End of Night",
+      "artist": "Dido",
+      "has_synced": true,
+      "path": "select/32_End_of_Night_Dido.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "End of Night (Cedric Gervais Remix)",
+      "artist": "Dido",
+      "has_synced": false,
+      "path": "select/33_End_of_Night_(Cedric_Gervais_Remix)_Dido.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "End Of Night",
+      "artist": "Dido",
+      "has_synced": true,
+      "path": "select/34_End_Of_Night_Dido.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "End Of Night",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/35_End_Of_Night_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "End of Night - Radio Edit",
+      "artist": "Dido",
+      "has_synced": true,
+      "path": "select/36_End_of_Night_-_Radio_Edit_Dido.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "End Of Night (Radio Edit)",
+      "artist": "Dido",
+      "has_synced": true,
+      "path": "select/37_End_Of_Night_(Radio_Edit)_Dido.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "When the Cold Wind Blows at the Dark End of Night",
+      "artist": "Chris Robinson Brotherhood",
+      "has_synced": false,
+      "path": "select/38_When_the_Cold_Wind_Blows_at_the_Dark_End_of_Night_Chris_Robinson_Brotherhood.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "End of the Night",
+      "artist": "Danny Avila",
+      "has_synced": false,
+      "path": "select/pl_01_End_of_the_Night_Danny_Avila.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "End Of The Night",
+      "artist": "Danny Avila",
+      "has_synced": true,
+      "path": "select/localdb_01_End_Of_The_Night_Danny_Avila.lrc",
+      "repo_name": "J9xpAWQ5P3Q"
+    }
+  ]
+}
