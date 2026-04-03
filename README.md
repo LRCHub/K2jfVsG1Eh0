@@ -1,0 +1,88 @@
+# Danny Avila – End Of The Night
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.25] I don't wanna come out strange
+[00:11.20] Excuse the look on my face
+[00:13.81] I'm tryin' my best to behave
+[00:27.81] 
+[00:18.90] Is it gonna sound cliché
+[00:20.71] Feel like we should be closer
+[00:23.62] Tomorrow I wanna know you
+[00:36.12] 
+[00:27.30] I don't wanna know what you're drinkin'
+[00:30.53] I just wanna know what you're thinkin'
+[00:33.05] At the end of the night
+[00:34.70] At the end of the night
+[00:35.62] At the end of the night
+[00:36.82] I don't wanna stand up again
+[00:39.95] Show me everything that you're feeling
+[00:43.32] At the end of the night
+[00:44.36] At the end of the night
+[00:45.30] At the end of the night
+[00:56.80] 
+[00:46.89] Fuck all of the small talk
+[00:48.65] Give me all the real stuff
+[00:51.28] Let's start
+[00:52.79] At the end of the night
+[00:53.65] At the end of the night
+[00:54.94] At the end of the night
+[00:56.34] Tell me all your secrets
+[00:58.54] Kiss me like you mean it
+[01:00.54] Let's start
+[01:02.18] At the end of the night
+[01:03.14] At the end of the night
+[01:04.21] At the end of the night
+[01:06.17] At the end of the night
+[01:17.67] 
+[01:25.32] Don't know how long I've been waiting
+[01:28.12] For change my life conversation
+[01:30.94] Could you change my life
+[01:33.26] Could you do it tonight
+[01:35.37] Excuse my fucking impatience
+[01:37.89] I'm just tryna get you naked
+[01:40.58] Body to mind
+[01:42.32] Your body to mind
+[01:50.82] 
+[01:46.12] I don't wanna know what you're drinkin'
+[01:47.58] I just wanna know what you're thinkin'
+[01:50.58] At the end of the night
+[01:51.30] At the end of the night
+[01:52.30] At the end of the night
+[01:53.86] I don't wanna stand up again
+[01:56.73] Show me everything that you're feeling
+[01:59.66] At the end of the night
+[02:00.72] At the end of the night
+[02:01.85] At the end of the night
+[02:13.35] 
+[02:03.65] Fuck all of the small talk
+[02:05.58] Give me all the real stuff
+[02:07.97] Let's start
+[02:09.56] At the end of the night
+[02:10.57] At the end of the night
+[02:11.66] At the end of the night
+[02:12.92] Tell me all your secrets
+[02:15.21] Kiss me like you mean it
+[02:17.55] Let's start
+[02:19.04] At the end of the night
+[02:20.18] At the end of the night
+[02:21.25] At the end of the night
+[02:22.39] At the end of the night
+[02:33.89] 
+[02:34.32] At the end
+[02:39.32] 
+[02:41.69] Fuck all of the small talk
+[02:44.03] Give me all the real stuff
+[02:46.58] Let's start, yeah
+[02:49.75] Let's start
+[02:50.83] Tell me all your secrets
+[02:53.67] Kiss me like you mean it
+[02:56.07] Let's start
+[02:57.35] Let's start
+[03:02.85] 
+[03:14.66] At the end of the night
+[03:18.16] At the end of the night
+[03:18.25] At the end of the night
+[03:20.36] At the end of the night
+```
